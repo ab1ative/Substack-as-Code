@@ -1,4 +1,10 @@
+.. image::conspiracyhoned.jpg
 
+===============================
+Despite Its Death, Destiny 2 is One of the Top Games on Steam
+===============================
+As once they said of the King, Destiny 2 is dead—long live Destiny 2!
++++++++++++++++++++++++++++++++
 
 Before Destiny 2’s final update, “Moment of Triumph,” the game was averaging less than 15,000 players a day according to SteamCharts. Today, that number is closer to 90,000, after spiking to as high as 160,000. While it is implausible that this success convinces Sony to pursue Destiny 3, it nevertheless suggests that Destiny 2 might have a future attracting new players; and this supposed death might be more of a boon than it outwardly appears—even beyond the obvious Streisand Effect that the game shutting down has had.
 
