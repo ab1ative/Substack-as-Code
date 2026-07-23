@@ -10,11 +10,11 @@ We might recall *Don Quixote* 1605-15, in which a regular man goes insane from r
 And the issue is never what rich people will do with this technology; the problem is always what the poor and the uneducated will get up to. They, after all, don’t know the difference between fantasy and reality.
 And yet when novels became a prestige medium only after Austen, they lost their original, experimental nature. Sterne’s *Tristram Shandy* from 1759 had no real plot; the book was filled with nonsense digressions and crazy illustrations like this one:
 
->![Tristram Shandy's Plotlines #1](tristramshany1.png)\
+>![Tristram Shandy's Plotlines #1](images/tristramshany1.png)\
 >
 >These were the four lines I moved in through my first, second, third, and fourth volumes.4—In the fifth volume I have been very good,——the precise line I have described in it being this:\
 >
->![Tristram Shandy's Plotlines #2](tristramshandy2.png)
+>![Tristram Shandy's Plotlines #2](images/tristramshandy2.png)
 
 This is why Laurence Sterne has been described as a forerunner to the postmodernists—this sort of stuff is legible to us now as wildly experimental and daring, and would likely be picked up by a publisher as a dauntless denial of form itself.
 However, this was not a rejection of the novel form. To the contrary, there was no novel form; the novel was a relatively new invention.
@@ -23,7 +23,7 @@ Before Sterne, Samuel Richardson what is still one of the longest novels in the 
 Several of the letters come from her, but the letters, at one point, are replaced with journal entries, as her kidnapper is stopping her communications.
 The most famous letter renders a form for trauma itself that would, today, still be seen as shocking and inventive:
 
-><img src="terrycastleclarissa.jpg" height=50% width=50%>
+><img src="images/terrycastleclarissa.jpg" height=50% width=50%>
 
 These sorts of wild swings become less and less common as the novel settles into its prestige form. Now, novels are hardly subversive at all—to write a novel and have it published, likely after an MFA or similar, puts one among the literary elite and in the hands and houses of the educated and the wealthy.
 Where, then, are the children who once read novels and were mocked for it?
